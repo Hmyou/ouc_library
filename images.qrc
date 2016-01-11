@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>bg.png</file>
+        <file>login.png</file>
+        <file>addaccount.png</file>
+        <file>addbook.png</file>
+        <file>bookinfo.png</file>
+        <file>userframe.png</file>
+        <file>adminframe.png</file>
+    </qresource>
+</RCC>
